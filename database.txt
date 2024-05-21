@@ -1,0 +1,4 @@
+1 Pen Office  30 100
+2 Pencil Office  25 110
+3 Cup Tableware  200 30
+4 Water Food  40 55
